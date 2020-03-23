@@ -1,0 +1,41 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-falcon-reactapp-prod-22618-authRole",
+            "UnauthRoleArn": "arn:aws:iam::732509984281:role/amplify-falcon-reactapp-prod-22618-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::732509984281:role/amplify-falcon-reactapp-prod-22618-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-falcon-reactapp-prod-22618-deployment",
+            "UnauthRoleName": "amplify-falcon-reactapp-prod-22618-unauthRole",
+            "StackName": "amplify-falcon-reactapp-prod-22618",
+            "StackId": "arn:aws:cloudformation:us-east-1:732509984281:stack/amplify-falcon-reactapp-prod-22618/af605710-6cad-11ea-8966-12da3ecd6186",
+            "AmplifyAppId": "d3p1jq3rdb3ig5"
+        }
+    },
+    "test": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-falcon-reactapp-test-24748-authRole",
+            "UnauthRoleArn": "arn:aws:iam::732509984281:role/amplify-falcon-reactapp-test-24748-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::732509984281:role/amplify-falcon-reactapp-test-24748-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-falcon-reactapp-test-24748-deployment",
+            "UnauthRoleName": "amplify-falcon-reactapp-test-24748-unauthRole",
+            "StackName": "amplify-falcon-reactapp-test-24748",
+            "StackId": "arn:aws:cloudformation:us-east-1:732509984281:stack/amplify-falcon-reactapp-test-24748/aef5ce10-6cb0-11ea-8f9b-0e4c53e0aefd",
+            "AmplifyAppId": "d3p1jq3rdb3ig5"
+        }
+    },
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-falcon-reactapp-dev-25357-authRole",
+            "UnauthRoleArn": "arn:aws:iam::732509984281:role/amplify-falcon-reactapp-dev-25357-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::732509984281:role/amplify-falcon-reactapp-dev-25357-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-falcon-reactapp-dev-25357-deployment",
+            "UnauthRoleName": "amplify-falcon-reactapp-dev-25357-unauthRole",
+            "StackName": "amplify-falcon-reactapp-dev-25357",
+            "StackId": "arn:aws:cloudformation:us-east-1:732509984281:stack/amplify-falcon-reactapp-dev-25357/8b05b640-6cb1-11ea-8261-12c270bd7978",
+            "AmplifyAppId": "d3p1jq3rdb3ig5"
+        }
+    }
+}
